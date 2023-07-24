@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS_CS_Exceptions", "SS_CS_Exceptions\SS_CS_Exceptions.csproj", "{58F7431C-7BEC-4059-8103-F4F150FB8E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCalculations", "QuadraticEquationSolver\MathCalculations.csproj", "{39695C51-265E-4D60-A147-6AA6AB19AD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F7431C-7BEC-4059-8103-F4F150FB8E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F7431C-7BEC-4059-8103-F4F150FB8E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F7431C-7BEC-4059-8103-F4F150FB8E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F7431C-7BEC-4059-8103-F4F150FB8E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39695C51-265E-4D60-A147-6AA6AB19AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39695C51-265E-4D60-A147-6AA6AB19AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39695C51-265E-4D60-A147-6AA6AB19AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39695C51-265E-4D60-A147-6AA6AB19AD89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DBCAEA0-173B-40E7-A3E0-06FA8C79ED2D}
+	EndGlobalSection
+EndGlobal
